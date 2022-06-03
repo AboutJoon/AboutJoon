@@ -1,7 +1,15 @@
-### Hi there 👋
 
-AboutJoon/AboutJoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[SNS]<br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aledma9760)](https://solved.ac/aledma9760)
+<a href="instagram.com/about_joon" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/hyunjoon-jeong-1867471b9" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+ 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaesoo9410&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/AboutJoon)
+
+[Develop Tool]<br>
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> 
+
+[Design Tool]<br>
+
+<img src="https://img.shields.io/badge/After Effects-9999FF?style=flat-square&logo=Adobe After Effects&logoColor=white"/> <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/> <img src="https://img.shields.io/badge/XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=white"/>
